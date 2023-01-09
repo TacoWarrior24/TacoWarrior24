@@ -4,7 +4,7 @@
 
 - 🌱 I’m always learning but just to highlight a few (SQL, C#, and UE5)
 - 📚 I am a Senior at SNHU - Computer Science (Software Engineering)
-- 🥅 2022 Goals: Develop and publish my own game. 
+- 🥅 2023 Goals: Develop and publish a mobile app 
 - ⚡ Fun fact: I enjoy scrolling through and creating memes
 
 ### Languages and Tools:
