@@ -2,9 +2,9 @@
 
 ## I'm a Developer, Intern, and Student!!
 
-- 🌱 I’m always learning but just to highlight a few (SQL, C#, and UE5)
-- 📚 I am a Senior at SNHU - Computer Science (Software Engineering)
-- 🥅 2023 Goals: Develop and publish a mobile app 
+- 🌱 I’m always learning but just to highlight a few (GraphQL, NodeJS, and UE5)
+- 📚 I am Southern New Hampshire University Gradute - Computer Science (Software Engineering)
+- 🥅 2023 Goals: Develop and publish a game 
 - ⚡ Fun fact: I enjoy scrolling through and creating memes
 
 ### Languages and Tools:
@@ -18,3 +18,5 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="UE5" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1024px-Unreal_Engine_Logo.svg.png" style="padding-right:10px;" />
+
