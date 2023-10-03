@@ -4,7 +4,7 @@
 
 - 🌱 I’m always learning but just to highlight a few (GraphQL, NodeJS, and UE5)
 - 📚 I am Southern New Hampshire University Gradute - Computer Science (Software Engineering)
-- 🥅 2023 Goals: Develop and publish a game 
+- 🥅 2023 Goals: Develop and publish a game (GOAL COMPLETE! Check it out! https://tacowarrior24.itch.io/)
 - ⚡ Fun fact: I enjoy scrolling through and creating memes
 
 ### Languages and Tools:
