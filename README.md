@@ -1,10 +1,10 @@
 # Hi there, I'm Jacob - aka [TacoWarrior24] 👋 
 
-## I'm a Developer, Intern, and Student!!
+## I'm a Developer, Intern, and Student!
 
-- 🌱 I’m always learning but just to highlight a few (GraphQL, NodeJS, and UE5)
-- 📚 I am Southern New Hampshire University Gradute - Computer Science (Software Engineering)
-- 🥅 2023 Goals: Develop and publish a game (GOAL COMPLETE! Check it out! https://tacowarrior24.itch.io/)
+- 🌱 I’m always learning but recently I've been learning (GraphQL, NodeJS, and UE5)
+- 📚 I graduated from Southern New Hampshire University - Bachelors in Computer Science (Software Engineering)
+- 🥅 2024 Goals: Develop and publish a game that others can play.
 - ⚡ Fun fact: I enjoy scrolling through and creating memes
 
 ### Languages and Tools:
