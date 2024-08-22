@@ -5,7 +5,7 @@
 - 🌱 I’m always learning but recently I've been learning (Lua, PHP)
 - 📚 I graduated from Southern New Hampshire University - Bachelors in Computer Science (Software Engineering)
 - 🥅 2024 Goals: Develop and publish a game that others can play.
-- ⚡ Fun fact: I enjoy scrolling through and creating memes
+- ⚡ Fun fact: I am an Eagle Scout
 
 ### Languages and Tools:
 
