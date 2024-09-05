@@ -4,7 +4,7 @@
 
 - 🌱 I’m always learning but recently I've been learning (Lua, PHP, TypeScript)
 - 📚 I graduated from Southern New Hampshire University - Bachelors in Computer Science (Software Engineering)
-- 🥅 2024 Goals: Develop and publish a game that others can play.
+- 🥅 2024 Goals: Develop and publish a game that others can play. ✅ DONE! => https://tacowarrior24.itch.io/inside-man
 - ⚡ Fun fact: I am an Eagle Scout
 
 ### Languages and Tools:
