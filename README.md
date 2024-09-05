@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Intern, and Student!
 
-- 🌱 I’m always learning but recently I've been learning (Lua, PHP)
+- 🌱 I’m always learning but recently I've been learning (Lua, PHP, TypeScript)
 - 📚 I graduated from Southern New Hampshire University - Bachelors in Computer Science (Software Engineering)
 - 🥅 2024 Goals: Develop and publish a game that others can play.
 - ⚡ Fun fact: I am an Eagle Scout
