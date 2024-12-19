@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob - aka [TacoWarrior24] 👋 
 
-## I'm a Developer, Intern, and Student!
+## I am a developer committed to continuous learning and growth!
 
 - 🌱 I’m always learning but recently I've been learning ... Lua, PHP, TypeScript
 - 📚 I graduated from Southern New Hampshire University - Bachelors in Computer Science (Software Engineering)
